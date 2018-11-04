@@ -14,7 +14,7 @@ elif 17 <= imc < 18.5:
 elif 18.5 <= imc < 25:
     print('Saudavel')
 elif 25 <= imc <30:
-    print('Sobre Psso')
+    print('SobrePeso')
 elif 30<= imc <35:
     print("Obesidade Grau I")
 elif 35 <= imc <40:
